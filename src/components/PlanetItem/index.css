@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 550px;
+}
+.sub-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.item-image {
+  width: 225px;
+  background-color: black;
+}
+.description {
+  text-align: center;
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
